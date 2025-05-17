@@ -1,2 +1,2 @@
 # CounterBanana
-A Conter Banana App
+A Counter Banana App
